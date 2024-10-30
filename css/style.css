@@ -3,6 +3,9 @@
     padding: 0%;
     box-sizing: border-box;
 }
+@media screen and (min-width:1922px){
+
+
 .grids{
     display: grid;
     grid-template-columns: repeat(2,200px);
@@ -592,7 +595,7 @@ line-height: 75px;
    
         display: flex;
   .Companyinfo{
-    margin-bottom: ;
+  
     img{
         width: 350px;
         height: 189px;
@@ -639,7 +642,7 @@ line-height: 75px;
 
         input[type=text]:focus{
             background-color:white;
-            color: ;
+          
         }   
         img{
             position: absolute;
@@ -663,6 +666,7 @@ line-height: 75px;
 
 
 
+}
 }
 
 @media screen and (min-width:360px) and (max-height:768px) {
@@ -1260,7 +1264,7 @@ line-height: 75px;
        
             display: flex;
       .Companyinfo{
-        margin-bottom: ;
+     
         img{
             width: 350px;
             height: 189px;
@@ -1307,7 +1311,7 @@ line-height: 75px;
 
             input[type=text]:focus{
                 background-color:white;
-                color: ;
+                
             }
             img{
                 position: absolute;
